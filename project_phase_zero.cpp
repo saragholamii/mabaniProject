@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<time.h>
 #include<ctime>
-
+//hello
 int maxsatr=20,maxsotun=20,maxheyvan=100,maxghaza=100;
 
 struct heyvan{
